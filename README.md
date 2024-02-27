@@ -1,8 +1,15 @@
-- application title:
-- author:
-  * id: 63114540554
-  * name: นายฉัตรชัย  แก้วฉุย
-- technology: streamlit
-- application description:
-* presentation: [slide/canva/etc..] link [public/ubu]
-* video: link [ubu] xoxoxo
+  @@ -1,10 +1,10 @@
+# oop_project
+# application title
+##author: 
+## author: 
+  * id: 63114540554 
+  * name: ฉัตรชัย  แก้วฉุย
+##technology: [pygame/streamlit]
+##application description:
+##presentation: [slide/canva/etc..] link [public/ubu]
+##video: link [public/ubu]
+## technology: [pygame/streamlit]
+## application description:
+## presentation: [slide/canva/etc..] link [public/ubu]
+## video: link [public/ubu]
