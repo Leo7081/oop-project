@@ -1,6 +1,6 @@
 # oop_project
 # application title
-##author: 
+
 ## author: 
   * id: 63114540554 
   * name: ฉัตรชัย  แก้วฉุย
